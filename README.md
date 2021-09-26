@@ -1,3 +1,4 @@
 # Pandas
 
-file:///C:/Users/Mithun/Downloads/datacleaning%20pandas%20(2).pdf
+
+[datacleaning pandas (2).pdf](https://github.com/MithunKiniStar/Pandas/files/7232378/datacleaning.pandas.2.pdf)
